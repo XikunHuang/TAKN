@@ -1,0 +1,18 @@
+2021-10-29 21:52:15,813 - INFO - Read graph from file
+2021-10-29 21:52:15,997 - INFO - Get undirected map node id...
+2021-10-29 21:52:16,011 - INFO - ******************************************
+2021-10-29 21:52:16,011 - INFO - Undirected graph
+2021-10-29 21:52:16,011 - INFO - Number of nodes: 23246
+2021-10-29 21:52:16,011 - INFO - Number of edges: 359890
+2021-10-29 21:52:16,692 - INFO - 
+
+2021-10-29 21:52:16,692 - INFO - Write degree to file...
+2021-10-29 21:52:16,701 - INFO - Start to plot degree distribution...
+2021-10-29 21:52:16,974 - INFO - Min degree: 1
+2021-10-29 21:52:16,974 - INFO - Max degree: 6880
+2021-10-29 21:52:16,974 - INFO - Average degree: 30.963606642002926
+2021-10-29 21:52:16,974 - INFO - 
+
+2021-10-29 21:52:16,974 - INFO - Start to plot complementary cumulative (in/out) degree distribution...
+2021-10-29 21:52:17,254 - INFO - Plot cc degree distribution done.
+

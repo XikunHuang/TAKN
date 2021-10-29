@@ -1,0 +1,24 @@
+2021-10-29 21:52:22,583 - INFO - Get directed map node id...
+2021-10-29 21:52:22,599 - INFO - Directed graph
+2021-10-29 21:52:22,599 - INFO - Number of nodes: 23246
+2021-10-29 21:52:22,599 - INFO - Number of edges: 408404
+2021-10-29 21:52:23,306 - INFO - 
+
+2021-10-29 21:52:23,307 - INFO - Write indegree to file...
+2021-10-29 21:52:23,316 - INFO - Start to plot in-degree distribution...
+2021-10-29 21:52:23,561 - INFO - Min in-degree: 0
+2021-10-29 21:52:23,561 - INFO - Max in-degree: 6821
+2021-10-29 21:52:23,561 - INFO - 
+
+2021-10-29 21:52:23,561 - INFO - Write outdegree to file...
+2021-10-29 21:52:23,571 - INFO - Start to plot out-degree distribution...
+2021-10-29 21:52:23,860 - INFO - Min out-degree: 0
+2021-10-29 21:52:23,860 - INFO - Max out-degree: 1969
+2021-10-29 21:52:23,860 - INFO - 
+
+2021-10-29 21:52:23,860 - INFO - Start to plot complementary cumulative (in/out) degree distribution...
+2021-10-29 21:52:24,406 - INFO - Plot cc (in/out) degree distribution done.
+
+2021-10-29 21:52:24,406 - INFO - Plot outdegree vs indegree...
+2021-10-29 21:52:24,727 - INFO - Plot out vs in done.
+

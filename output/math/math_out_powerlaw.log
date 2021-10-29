@@ -1,0 +1,48 @@
+2021-10-29 21:52:26,602 - INFO - Power law fit result:
+2021-10-29 21:52:26,602 - INFO - Is discrete: True
+2021-10-29 21:52:26,602 - INFO - x_min = 59.0
+2021-10-29 21:52:26,602 - INFO - power_law_alpha = 3.4492207192870765
+2021-10-29 21:52:26,602 - INFO - power_law_D = 0.011367619352653402
+2021-10-29 21:52:26,602 - INFO - 
+
+2021-10-29 21:52:26,606 - INFO - Compare with exponential:
+2021-10-29 21:52:26,606 - INFO - R = 134.82191237359703
+2021-10-29 21:52:26,606 - INFO - p = 0.0016803979338753563
+2021-10-29 21:52:26,606 - INFO - 
+
+2021-10-29 21:52:28,030 - INFO - Compare with truncated power law:
+2021-10-29 21:52:28,030 - INFO - R = -1.410756603315022e-05
+2021-10-29 21:52:28,030 - INFO - p = 0.9957618232672343
+2021-10-29 21:52:28,030 - INFO - 
+
+2021-10-29 21:52:28,090 - INFO - Compare with lognormal:
+2021-10-29 21:52:28,090 - INFO - R = 0.011739716396956812
+2021-10-29 21:52:28,090 - INFO - p = 0.7203649472733011
+2021-10-29 21:52:28,090 - INFO - 
+
+2021-10-29 21:52:28,182 - INFO - Compare with stretched exponential:
+2021-10-29 21:52:28,182 - INFO - R = 3.5768886465677365
+2021-10-29 21:52:28,182 - INFO - p = 0.22580856625367174
+2021-10-29 21:52:28,182 - INFO - 
+
+2021-10-29 21:52:28,182 - INFO - Truncated power law fit result: 
+2021-10-29 21:52:28,182 - INFO - alpha = 3.449703842924394
+2021-10-29 21:52:28,182 - INFO - lambda = 1.907209704255984e-10
+2021-10-29 21:52:28,183 - INFO - 
+
+2021-10-29 21:52:28,183 - INFO - Lognormal fit result: 
+2021-10-29 21:52:28,183 - INFO - mu = -434.0885714407825
+2021-10-29 21:52:28,183 - INFO - sigma = 13.387789011506648
+2021-10-29 21:52:28,616 - INFO - Calculating reciprocity...
+2021-10-29 21:52:28,665 - INFO - Reciprocity: 0.23757847621472855
+2021-10-29 21:52:28,665 - INFO - Reciprocity done.
+
+2021-10-29 21:52:28,665 - INFO - Plot wcc distribution...
+2021-10-29 21:52:28,878 - INFO - Number of weakly connected components: 5
+2021-10-29 21:52:28,878 - INFO - The largest weakly connected component size: 23238
+2021-10-29 21:52:28,878 - INFO - 
+2021-10-29 21:52:28,878 - INFO - Plot scc distribution...
+2021-10-29 21:52:29,121 - INFO - Number of strongly connected components: 2761
+2021-10-29 21:52:29,121 - INFO - The largest strongly connected component size: 20392
+2021-10-29 21:52:29,150 - INFO - LCC nodes percentage: 0.8772261894519487
+2021-10-29 21:52:29,150 - INFO - LCC edges percentage: 0.9528408144876152
