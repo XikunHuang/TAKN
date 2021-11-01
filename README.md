@@ -27,7 +27,7 @@ We have released [64 topic networks](https://zenodo.org/record/5602570) extracte
     enwiki-2020-03-01-Mathematics-edgelist-simple.tsv   6.1 MB 
     ```
 
-Data format of *enwiki-YEAR-03-01-TOPIC-edgelist-simple.tsv*: There are two columns separated by tab. The first column is the page id of the source page, and the second column is the page id of the target page. Below is a part of *enwiki-2020-03-01-Mathematics-edgelist-simple.tsv*:
+Data format of *enwiki-YEAR-03-01-TOPIC-edgelist-simple.tsv*: There are two columns separated with tab. The first column is the page id of the source page, and the second column is the page id of the target page. Below is a part of *enwiki-2020-03-01-Mathematics-edgelist-simple.tsv*:
 
 ```
 # source_page_id    target_page_id
@@ -40,7 +40,7 @@ Data format of *enwiki-YEAR-03-01-TOPIC-edgelist-simple.tsv*: There are two colu
 
 All 64 topic networks are available at: [https://zenodo.org/record/5602570](https://zenodo.org/record/5602570).
 
-If you who want to generate topic networks by yourself, here are steps:
+If you want to generate topic networks by yourself, here are steps:
 
 1. Download [Wikipedia dump](https://dumps.wikimedia.org/enwiki/).
 
@@ -74,7 +74,7 @@ Requirements:
 - powerlaw
 - matplotlib
 - pandas
-- netwokit==8.0
+- networkit==8.0
 - numpy
 - scipy
 
